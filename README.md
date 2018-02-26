@@ -69,7 +69,7 @@ The 5 Sounds are:
 
 (All from Super Mario Bros 1)
 
-You can find the playlist with animations with sound background here:
+You can find the playlist with animations and sound here:
 </br>
 https://www.youtube.com/watch?v=58vCUBjnwDE&list=PL_L_96uzfo-zQ_24f9iUvhOWQM-Z3cS8W
 </br>
