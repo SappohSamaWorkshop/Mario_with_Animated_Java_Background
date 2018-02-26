@@ -71,7 +71,7 @@ The 5 Sounds are:
 
 You can find the playlist with animations with sound background here:
 </br>
-https://www.youtube.com/embed/58vCUBjnwDE
+https://www.youtube.com/watch?v=58vCUBjnwDE&list=PL_L_96uzfo-zQ_24f9iUvhOWQM-Z3cS8W
 </br>
 (or if you prefire by clicking on the gif below)
 </br>
@@ -81,8 +81,17 @@ https://www.youtube.com/embed/58vCUBjnwDE
 alt="Mario" width="600" height="450" border="100" /></a> 
 
 
+</br>
 
 
+To change the sound it is enough to replace the name of the track in the string highlighted in the image (find the tracks inside the sounds folder)
+
+</br>
+
+![alt text](https://i.imgur.com/k5hENy5.jpg)
+
+
+</br>
 
 
 </br> </br> </br> </br>
