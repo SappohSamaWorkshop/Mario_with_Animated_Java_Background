@@ -47,6 +47,8 @@ Pepe Cash Meme WATCHES YOU!:
 
 To change the background it is enough to replace the name of the image in the string highlighted in the image (find the images inside the images folder)
 
+</br>
+
 ![alt text](https://i.imgur.com/YB81bmQ.jpg)
 
 
