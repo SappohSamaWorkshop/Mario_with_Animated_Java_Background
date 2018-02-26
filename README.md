@@ -74,10 +74,10 @@ You can find the playlist with animations with sound background here:
 https://www.youtube.com/embed/58vCUBjnwDE
 </br>
 (or by clicking on the image below)
-
+</br>
 
 <a href="https://www.youtube.com/embed/58vCUBjnwDE
-" target="_blank"><img src="https://i.imgur.com/QmTKs1z.jpg" 
+" target="_blank"><img src="https://i.imgur.com/jDw22g7.jpg" 
 alt="$MFT" width="600" height="450" border="100" /></a> 
 
 
