@@ -1,7 +1,7 @@
 # mario
 An animated Mario made entirely in HTML &amp; CSS
 </br></br>
-![alt text](https://media.giphy.com/media/2yzEKoVnd7ls51cvQE/giphy.gif)
+![alt text](https://imgur.com/32b1ff67-f566-4f31-b2e2-5d84974367aa)
 
 The animation is completely written in HTML and CSS.
 The code works well with the latest generation of browsers (Opera, Chrome), Mozilla works well (apart from the audio that does not work) while IE can not manage the background in motion and give white screen ...
