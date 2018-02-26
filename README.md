@@ -73,7 +73,7 @@ You can find the playlist with animations with sound background here:
 </br>
 https://www.youtube.com/embed/58vCUBjnwDE
 </br>
-(or by clicking on the image below)
+(or if you prefire by clicking on the gif below)
 </br>
 
 <a href="https://www.youtube.com/embed/58vCUBjnwDE
