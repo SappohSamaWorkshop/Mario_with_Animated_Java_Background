@@ -77,8 +77,8 @@ https://www.youtube.com/embed/58vCUBjnwDE
 </br>
 
 <a href="https://www.youtube.com/embed/58vCUBjnwDE
-" target="_blank"><img src="blob:https://imgur.com/deb36241-2145-4fd9-9f85-55c0199ae618" 
-alt="$MFT" width="600" height="450" border="100" /></a> 
+" target="_blank"><img src="https://imgur.com/deb36241-2145-4fd9-9f85-55c0199ae618" 
+alt="Mario" width="600" height="450" border="100" /></a> 
 
 
 
