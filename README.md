@@ -61,7 +61,7 @@ The 5 Sounds are:
 
 -OverWorld Theme
 </br>
--UnderWoirld Theme
+-UnderWorld Theme
 </br>
 -UnderWater Theme
 </br>
