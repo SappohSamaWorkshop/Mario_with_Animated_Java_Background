@@ -76,7 +76,7 @@ https://www.youtube.com/embed/58vCUBjnwDE
 (or if you prefire by clicking on the gif below)
 </br>
 
-<a href="https://www.youtube.com/embed/58vCUBjnwDE
+<a href="https://www.youtube.com/watch?v=58vCUBjnwDE&list=PL_L_96uzfo-zQ_24f9iUvhOWQM-Z3cS8W
 " target="_blank"><img src="https://media.giphy.com/media/XbZ1FZ4xtzDKE/giphy.gif" 
 alt="Mario" width="600" height="450" border="100" /></a> 
 
