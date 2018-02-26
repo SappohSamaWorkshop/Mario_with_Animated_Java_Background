@@ -43,6 +43,14 @@ Pepe Cash Meme WATCHES YOU!:
 
 ![alt text](https://i.imgur.com/Oetzc6E.gif)
 
+</br>
+
+The 5 Sounds are:
+
+
+
+
+
 
 
 </br> </br> </br> </br>
