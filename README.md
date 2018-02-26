@@ -1,5 +1,5 @@
 # mario
-An animated Mario made entirely in HTML &amp; CSS
+An animated Mario made in HTML &amp; CSS, and a little bit of Java
 </br></br>
 ![alt text](https://i.imgur.com/kCUEkXn.gif)
 
