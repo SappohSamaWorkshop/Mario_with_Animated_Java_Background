@@ -58,7 +58,12 @@ The 5 Sounds are:
 
 OverWorld Theme:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58vCUBjnwDE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+<a href="https://www.youtube.com/embed/58vCUBjnwDE
+" target="_blank"><img src="http://img.youtube.com/vi/vYL9UQRwUZc/0.jpg" 
+alt="$MFT" width="600" height="450" border="100" /></a> 
+
+
 
 
 
