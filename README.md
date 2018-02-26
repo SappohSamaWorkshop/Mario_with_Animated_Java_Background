@@ -36,10 +36,12 @@ Equations:
 ![alt text](https://media.giphy.com/media/dSdVPEwn3E4bVveAGq/giphy.gif)
 
 
-Pepe Cash Meme WATCHES YOU! (is a surprise,):
+Pepe Cash Meme WATCHES YOU!:
+</br>
 
+(is a surprise, if you want to see it, download and try)
 
-![alt text](https://img.4plebs.org/boards/pol/image/1468/72/1468720333986.gif)
+![alt text](https://i.imgur.com/Oetzc6E.gif)
 
 
 
