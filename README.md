@@ -77,7 +77,7 @@ https://www.youtube.com/embed/58vCUBjnwDE
 </br>
 
 <a href="https://www.youtube.com/embed/58vCUBjnwDE
-" target="_blank"><img src="https://i.imgur.com/jDw22g7.jpg" 
+" target="_blank"><img src="blob:https://imgur.com/deb36241-2145-4fd9-9f85-55c0199ae618" 
 alt="$MFT" width="600" height="450" border="100" /></a> 
 
 
