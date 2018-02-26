@@ -3,7 +3,7 @@ An animated Mario made in HTML &amp; CSS, and a little bit of Java
 </br></br>
 ![alt text](https://i.imgur.com/kCUEkXn.gif)
 
-before the fork the animation was completely written in css and html.
+...Before the fork the animation was completely written in css and html.
 I just added a bit of java code to animate the background a little, I added some catchy bacgrounds, and the sounds that start in autoplay.
 The code works well with the latest generation of browsers (Opera, Chrome), Mozilla works well (apart from the audio that does not work) while IE can not manage the background in motion and give white screen ...
 
