@@ -57,15 +57,23 @@ To change the background it is enough to replace the name of the image in the st
 The 5 Sounds are:
 
 -OverWorld Theme
+</br>
 -UnderWoirld Theme
+</br>
 -UnderWater Theme
+</br>
 -Castel Theme
+</br>
 -StarMan Theme
+
 
 (All from Super Mario Bros 1)
 
 You can find the playlist with animations with sound background here:
+</br>
 https://www.youtube.com/embed/58vCUBjnwDE
+</br>
+(or by clicking on the image below)
 
 
 <a href="https://www.youtube.com/embed/58vCUBjnwDE
