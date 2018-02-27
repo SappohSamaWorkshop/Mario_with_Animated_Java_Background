@@ -28,7 +28,7 @@ alt="Mario is Alive!" width="600" height="450" border="100" />
 alt="Mario is Alive!" width="600" height="450" border="100" />
 
 
-</br>
+
 
 you can try a demo here:
 </br>
