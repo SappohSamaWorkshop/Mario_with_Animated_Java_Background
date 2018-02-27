@@ -4,6 +4,7 @@ But I managed to find a nice remix with a creative commons license of Super Mari
 
 Find the file indexwithsoundfix.html, replace it with the original and you're done ...
 
+you can try a demo here:
 https://codepen.io/JonnyBanana/pen/paQyKo
 
 <a href="https://codepen.io/JonnyBanana/pen/paQyKo
