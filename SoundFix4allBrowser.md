@@ -20,6 +20,7 @@ Find the file indexwithsoundfix.html, replace it with the original and you're do
  </br>
 
 you can try a demo here:
+</br>
 https://codepen.io/JonnyBanana/pen/paQyKo
 
 <a href="https://codepen.io/JonnyBanana/pen/paQyKo
@@ -28,5 +29,5 @@ alt="Mario is Alive!" width="600" height="450" border="100" /></a>
 
 </br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.imgur.com/IUtPQo8.gif" 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.imgur.com/M4VML8m.gif" 
 alt="Mario is Alive!" width="600" height="450" border="100" />
