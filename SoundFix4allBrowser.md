@@ -4,10 +4,13 @@ But I managed to find a nice remix with a creative commons license of Super Mari
 
 Find the file indexwithsoundfix.html, replace it with the original and you're done ...
 
+<img src="https://i.imgur.com/SAPU3LH.gif" 
+alt="Mario is Alive!" width="600" height="450" border="100" />
+
 you can try a demo here:
 https://codepen.io/JonnyBanana/pen/paQyKo
 
 <a href="https://codepen.io/JonnyBanana/pen/paQyKo
 " target="_blank"><img src="https://i.imgur.com/z7PMR46.jpg" 
-alt="$MFT" width="600" height="450" border="100" /></a> 
+alt="Mario is Alive!" width="600" height="450" border="100" /></a> 
 
