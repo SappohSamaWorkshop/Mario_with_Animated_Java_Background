@@ -16,6 +16,8 @@ Find the file indexwithsoundfix.html, replace it with the original and you're do
  Artist : JJD
  
  https://www.youtube.com/channel/UCYaIvjDg3TMnsqc6wbaEhIQ
+ 
+ </br>
 
 you can try a demo here:
 https://codepen.io/JonnyBanana/pen/paQyKo
@@ -24,3 +26,7 @@ https://codepen.io/JonnyBanana/pen/paQyKo
 " target="_blank"><img src="https://i.imgur.com/z7PMR46.jpg" 
 alt="Mario is Alive!" width="600" height="450" border="100" /></a> 
 
+</br>
+
+<img src="https://i.imgur.com/IUtPQo8.gif" 
+alt="Mario is Alive!" width="600" height="450" border="100" />
