@@ -38,7 +38,6 @@ https://codepen.io/JonnyBanana/pen/paQyKo
 " target="_blank"><img src="https://i.imgur.com/z7PMR46.jpg" 
 alt="Mario is Alive!" width="600" height="450" border="100" /></a> 
 
-</br>
 
 <img src="https://i.imgur.com/SAPU3LH.gif" 
 alt="Mario is Alive!" width="600" height="450" border="100" />
