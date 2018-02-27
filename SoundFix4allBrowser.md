@@ -28,5 +28,5 @@ alt="Mario is Alive!" width="600" height="450" border="100" /></a>
 
 </br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.imgur.com/IUtPQo8.gif" 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://i.imgur.com/IUtPQo8.gif" 
 alt="Mario is Alive!" width="600" height="450" border="100" />
